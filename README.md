@@ -1,15 +1,4 @@
-<style>
-    .round-image {
-        border-radius: 50%; /* Esto hace que la imagen tenga bordes redondos */
-        width: 50px; /* Ajusta el tamaño de la imagen según lo necesites */
-        height: 50px;
-        overflow: hidden; /* Esto asegura que la imagen no sobresalga del área redonda */
-    }
-</style>
-
-<div class="round-image">
-    <img src="https://res.cloudinary.com/dg4q5s1fc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1715494870/Osian_Avatar_mtrizw.png" alt="Descripción de la imagen">
-</div>
+<img width="100" height="100" border-radius="100" src=https://res.cloudinary.com/dg4q5s1fc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1715494870/Osian_Avatar_mtrizw.png>
 ## Hi! I am Osián, and I am a full-stack software engineer👋
 
 
