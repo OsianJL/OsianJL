@@ -4,7 +4,6 @@
 <h1>Hi! I am Osián, and I am a full-stack software engineer👋</h1>
 </div>
 
-- 👋 Hi, I’m @OsianJL
 - 👀 I love the programming world, and its endless possibilities: Websites, Apps, AI, etc...
 - 🌱 I work with Javascript, React, Python, Flask, Boostrap, CSS, HTML 
 - 💞️ I’m looking for a job where I can keep learning and growing as a Software engineer, which is the cornerstone of my life
@@ -22,3 +21,8 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+### ✍️ Top Repositories : 
+- WanderBud Social Media Project with REACT and PYTHON-Flask_Alchemy [-WEB-])   [-REPO-]()
+- Star Wars Blog with REACT [-REPO-]()
+- ToDo List with REACT-API [-REPO-]()
