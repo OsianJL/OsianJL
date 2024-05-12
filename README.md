@@ -1,4 +1,4 @@
-# ![https://www.linkedin.com/in/osianjorge/](https://res.cloudinary.com/dg4q5s1fc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1715494870/Osian_Avatar_mtrizw.png)
+<img width="50" height="50" src=https://res.cloudinary.com/dg4q5s1fc/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1715494870/Osian_Avatar_mtrizw.png>
 ## Hi! I am Osián, and I am a full-stack software engineer👋
 
 
