@@ -23,6 +23,6 @@
 </p>
 
 ### ✍️ Top Repositories : 
-- WanderBud Social Media Project with REACT and PYTHON-Flask_Alchemy [-WEB-])   [-REPO-]()
-- Star Wars Blog with REACT [-REPO-]()
-- ToDo List with REACT-API [-REPO-]()
+- WanderBud Social Media Project with REACT and PYTHON-Flask_Alchemy [-WEB-])   [-REPO-](https://github.com/OsianJL/WanderBud)
+- Star Wars Blog with REACT [-REPO-](https://github.com/OsianJL/OsianJL-REACT_ROUTER-Star_Wars)
+- Back-End blog with Python-flaks [-REPO-](https://github.com/OsianJL/OsianJL-SQLAlchemy-StarWars_Data_Model)
