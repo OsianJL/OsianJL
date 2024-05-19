@@ -22,6 +22,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsianJL&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsianJL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ✍️ Top Repositories : 
 - WanderBud Social Media Project with REACT and PYTHON-Flask_Alchemy [-WEB-])   [-REPO-](https://github.com/OsianJL/WanderBud)
 - Star Wars Blog with REACT [-REPO-](https://github.com/OsianJL/OsianJL-REACT_ROUTER-Star_Wars)
