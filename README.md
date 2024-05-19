@@ -1,5 +1,5 @@
 <div align="center">
-<img display="inline-block" width="600" height="300" src=https://res.cloudinary.com/dg4q5s1fc/image/upload/v1715499527/cartoon-629_l6fefl.gif>
+<img display="inline-block" width="400" height="200" src=https://res.cloudinary.com/dg4q5s1fc/image/upload/v1715499527/cartoon-629_l6fefl.gif>
 <br></br>
 <h1>Hi! I am Osián, and I am a full-stack software engineer👋</h1>
 </div>
