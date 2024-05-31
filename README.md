@@ -28,6 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsianJL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Top Repositories : 
-- WanderBud Social Media Project with REACT and PYTHON-Flask_Alchemy [-WEB-])   [-REPO-](https://github.com/OsianJL/WanderBud)
-- Star Wars Blog with REACT [-REPO-](https://github.com/OsianJL/OsianJL-REACT_ROUTER-Star_Wars)
-- Back-End blog with Python-Flask [-REPO-](https://github.com/OsianJL/OsianJL-SQLAlchemy-StarWars_Data_Model)
+- WanderBud Social Media Project with REACT and PYTHON-Flask_SQLAlchemy [-WEB-]) [-REPO-](https://github.com/OsianJL/WanderBud)
+- Guitar Blog with REACT and PYTHON-Flask_SQLAlchemy [-REPO-](https://github.com/OsianJL/Guitar-Blog-React-Flask))
+- Football Bet App Web with REACT [-REPO-]()
