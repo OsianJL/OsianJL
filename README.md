@@ -29,5 +29,5 @@
 
 ### ✍️ Top Repositories : 
 - WanderBud Social Media Project with REACT and PYTHON-Flask_SQLAlchemy [-WEB-]) [-REPO-](https://github.com/OsianJL/WanderBud)
-- Guitar Blog with REACT and PYTHON-Flask_SQLAlchemy [-REPO-](https://github.com/OsianJL/Guitar-Blog-React-Flask))
-- Football Bet App Web with REACT [-REPO-]()
+- Guitar Blog with REACT and PYTHON-Flask_SQLAlchemy [-REPO-](https://github.com/OsianJL/Guitar-Blog-React-Flask)
+- Football Bet App Web with REACT [-REPO-](https://github.com/OsianJL/Fooball-Bet-Web-App)
