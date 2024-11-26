@@ -5,7 +5,7 @@
 </div>
 
 - 👀 I love the programming world, and its endless possibilities: Websites, Apps, AI, etc...
-- 🌱 I work with Javascript, TypeScript, React, React Native, Node, Python, Flask, Boostrap, CSS, HTML 
+- 🌱 I work with Javascript, TypeScript ,Astro, React, React Native, Node, Express, Python, Flask, Tailwind, CSS, HTML 
 - 💞️ Interested in any project where I can keep learning and growing as a Software engineer, which is the cornerstone of my life
 - 📫 Reach me here: <a href="https://www.linkedin.com/in/osianjorge/">LinkedIn Profile</a>
 
