@@ -4,9 +4,9 @@
 <h1>Hi! I am Osián, and I am a full-stack software engineer👋</h1>
 </div>
 
-- 👀 I love the programming world, and its endless possibilities: Websites, Apps, AI, etc...
-- 🌱 I work with Javascript, TypeScript ,Astro, React, React Native, Node, Express, Python, Flask, Tailwind, CSS, HTML 
-- 💞️ Interested in any project where I can keep learning and growing as a Software engineer, which is the cornerstone of my life
+- 👀 I love the programming world, and its endless possibilities: APIs, Websites, Mobile, AI, etc...
+- 🌱 I work with Python, Flask, postgreSQL, Docker, Javascript, TypeScript, React, React Native, Node, Express, Tailwind, CSS, HTML 
+- 💞️ Interested in any project where I can keep learning and growing as a Software engineer
 - 📫 Reach me here: <a href="https://www.linkedin.com/in/osianjorge/">LinkedIn Profile</a>
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -35,5 +35,5 @@
 
 ### ✍️ Top Repositories : 
 - WanderBud Social Media Project with REACT and PYTHON-Flask_SQLAlchemy [-WEB-]) [-REPO-](https://github.com/OsianJL/WanderBud)
-- Guitar Blog with REACT and PYTHON-Flask_SQLAlchemy [-REPO-](https://github.com/OsianJL/Guitar-Blog-React-Flask)
-- Football Bet App Web with REACT [-REPO-](https://github.com/OsianJL/Fooball-Bet-Web-App)
+- API providing full user onboarding, messages and chats with PYTHON-Flask_SQLAlchemy [-REPO-](https://github.com/OsianJL/API-DQUESTION-FLASK-MAIL)
+
