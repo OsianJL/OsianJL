@@ -51,7 +51,7 @@
 ### ✍️ Featured Repositories
 
 <!-- Replace these with your real projects -->
-- 📌 **[Project Name]** – Short description. [🔗 GitHub Repo](https://github.com/OsianJL/your-repo-here)
+- 📌 **[NestJS Boilerplate]** – NestJS API built as a boilerplate for any project which requires a scalable and secure structure in order to grow and achieve its goals. [🔗 GitHub Repo](https://github.com/OsianJL/nestjs-backend-boilerplate)
 - 📌 **[Project Name]** – Short description. [🔗 GitHub Repo](https://github.com/OsianJL/your-repo-here)
 - 📌 **[Project Name]** – Short description. [🔗 GitHub Repo](https://github.com/OsianJL/your-repo-here)
 
