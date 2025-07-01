@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="350" height="350" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1751363683/happyTypin.gif" alt="coding avatar" />
+  <img width="350" height="350" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1751364334/happyTypinGH_1_kssm5h.gif" alt="coding avatar" />
   <h1>Hi! I'm Osián — a Full-Stack Software Engineer 👋</h1>
 </div>
 
