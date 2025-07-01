@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="400" height="200" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1715499527/cartoon-629_l6fefl.gif" alt="coding avatar" />
-  <h1>Hi! I'm Osián — a Full-Stack Software Engineer 👋</h1>
-</div>
-<div align="center">
-  <img width="400" height="200" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1751363683/happyTypinGH_i2iili.gif" alt="coding avatar" />
+  <img width="350" height="350" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1751363683/happyTypinGH_i2iili.gif" alt="coding avatar" />
   <h1>Hi! I'm Osián — a Full-Stack Software Engineer 👋</h1>
 </div>
 
