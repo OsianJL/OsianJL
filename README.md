@@ -2,10 +2,6 @@
   <img width="400" height="200" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1715499527/cartoon-629_l6fefl.gif" alt="coding avatar" />
   <h1>Hi! I'm Osián — a Full-Stack Software Engineer 👋</h1>
 </div>
-<div align="center">
-  <img width="320" height="320" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1751360768/20250701_1057_Typing_Man_Smiles_loop_01jz2k8s0xf4esk4dnsztfc8t8_cn5efl.gif" alt="coding avatar" />
-  <h1>Hi! I'm Osián — a Full-Stack Software Engineer 👋</h1>
-</div>
 
 👨‍💻 I specialize in **backend development** with a strong foundation in full-stack technologies. I’m especially passionate about exploring **Artificial Intelligence** (LangChain, OpenAI, agents, etc.).
 
