@@ -7,10 +7,11 @@
 
 🚀 I work daily with:
 - **Languages**: Python, TypeScript, JavaScript
-- **Frameworks**: Flask, NestJS, React, React Native, Express
+- **Frameworks**: Flask, NestJS, React, React Native
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Docker, Git, Postman
+- **Tools**: Docker, Git, Swagger, Postman
 - **Styling**: Tailwind, CSS, HTML
+- **LLMs**: ChatGPT, Claude, Perplexity, Gemini
 
 🎯 My goal is to build scalable APIs and applications while diving deeper into AI-powered development.
 
