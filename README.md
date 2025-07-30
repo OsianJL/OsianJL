@@ -62,8 +62,8 @@
 
 <!-- Replace these with your real projects -->
 - 📌 **NestJS Boilerplate** – NestJS API built as a boilerplate for any project which requires a scalable and secure structure in order to grow and achieve its goals. [🔗 GitHub Repo](https://github.com/OsianJL/nestjs-backend-boilerplate)
-- 📌 **AI Agent** – Agent with capabilities to manage folders, files and other data in your computer and organize it. [🔗 GitHub Repo](https://github.com/OsianJL/00-agent_beta)
-- 📌 **[Project Name]** – Short description. [🔗 GitHub Repo](https://github.com/OsianJL/your-repo-here)
+- 📌 **AI Desktop Assistant Agent** – Agent with capabilities to manage folders, files and other data in your computer and organize it. [🔗 GitHub Repo](https://github.com/OsianJL/desktop_assistant_agent)
+- 📌 **AI Agent React Interface** – Short description. [🔗 GitHub Repo](https://github.com/OsianJL/agent-react-interface)
 
 ---
 
