@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="350" height="350" src="https://raw.githubusercontent.com/Osiian/Osiian/main/Osian_GitHub.gif" alt="coding avatar" />
+  <img width="350" height="350" src="https://github.com/OsianJL/OsianJL/blob/main/Osian_GitHub.gif" alt="coding avatar" />
   <h1>Hi! I'm Osián — a Data Analyst with a strong foundation in business and management. 👋</h1>
 </div>
 
