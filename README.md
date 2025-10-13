@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="350" height="350" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1751364334/happyTypinGH_1_kssm5h.gif" alt="coding avatar" />
+  <img width="350" height="350" src="https://res.cloudinary.com/dg4q5s1fc/image/upload/v1760366580/Osian_GitHub_itifgh.gif" alt="coding avatar" />
   <h1>Hi! I'm Osián — a Data Analyst with a strong foundation in business and management. 👋</h1>
 </div>
 
