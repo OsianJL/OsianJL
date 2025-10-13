@@ -61,7 +61,7 @@ I’m passionate about turning complex data into clear, actionable insights and 
     <th align="center">📊 Visualization</th>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-tableau.svg" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/Icons/PowerBI.svg" width="40" height="40"/>&nbsp;
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/software-apps/power-bi-icon.svg" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
     </td>
   </tr>
