@@ -3,68 +3,87 @@
   <h1>Hi! I'm Osián — a Full-Stack Software Engineer 👋</h1>
 </div>
 
-👨‍💻 I specialize in **backend development** with a strong foundation in full-stack technologies. I’m especially passionate about exploring **Artificial Intelligence** (LangChain, OpenAI, agents, etc.).
 
-🚀 I work daily with:
-- **Languages**: Python, TypeScript, JavaScript
-- **Frameworks**: Flask, NestJS, React, React Native
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Docker, Git, Swagger, Postman
-- **Styling**: Tailwind, CSS, HTML
-- **LLMs**: ChatGPT, Claude, Perplexity, Gemini
+# 👋 Hi, I'm Osián
 
-🎯 My goal is to build scalable APIs and applications while diving deeper into AI-powered development.
+🎯 **Data Analyst** with a Bachelor's degree in **Business & Administration** and a strong foundation in programming.  
+I’m passionate about turning complex data into clear, actionable insights and building solutions that connect analytics with business impact.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/osianjorge/)
+🌍 Having lived in five countries and speaking four languages, I bring an international mindset and adaptability to every project.
 
 ---
 
-### 🛠 Tech Stack
+## 📊 What I Work With
+
+- **Languages & Tools**: Python, R, SQL, Jupyter Notebooks  
+- **Visualization & BI**: Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+- **Data Handling**: Pandas, NumPy, Excel, Google Sheets  
+- **Databases**: PostgreSQL, MySQL, SQL Server  
+- **Big Data & AI**: Spark, PySpark, NLP, Machine Learning (Scikit-learn, TensorFlow basics)  
+- **Cloud & Collaboration**: GitHub, Docker, Google Cloud, Git  
+
+---
+
+## 📘 Learning Path (Bootcamp Modules)
+
+1. **Fundamentals & Tools** → Data Analytics basics, dynamic dashboards  
+2. **Visualization & Databases** → SQL, Power BI, Tableau  
+3. **Mathematical Statistics** → Descriptive stats, algebra with Python & R  
+4. **Python & R** → Data manipulation, visualization (Matplotlib, Plotly, Ggplot)  
+5. **Machine Learning & AI** → Spark, PySpark, NLP, supervised learning  
+6. **Final Project** → Cloud-based data software & portfolio project
+
+---
+
+## 📂 Featured Projects
+
+- 📊 **Sales Performance Dashboard** – Interactive Power BI dashboard integrating SQL Server data to track KPIs.  
+- 🤖 **Customer Review Analyzer** – NLP project in Python classifying sentiment from e-commerce reviews.  
+- 🧮 **Marketing Data Insights (Python + Pandas)** – Exploratory analysis and visualization of real campaign data.  
+- ☁️ **Final Project: Cloud Data App** – Full data pipeline with ETL + Power BI + cloud deployment.
+
+*(Projects coming soon as part of my Data Analytics Bootcamp)*
+
+---
+
+## 🧠 Tech Overview
 
 <table align="center">
   <tr>
-    <th align="center">🧠 Languages</th>
+    <th align="center">🧮 Data & Analytics</th>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
-    <th align="center">⚙️ Frameworks & Libraries</th>
+    <th align="center">📊 Visualization</th>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" style="background-color:#EEEEEE;" alt="Flask" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
     </td>
   </tr>
   <tr>
-    <th align="center">🛠 Tools & Databases</th>
+    <th align="center">☁️ Cloud & Tools</th>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
     </td>
   </tr>
 </table>
 
+---
+
+[![Osián's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsianJL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsianJL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/osianjorge/)
 
----
-
-### ✍️ Featured Repositories
-
-<!-- Replace these with your real projects -->
-- 📌 **NestJS Boilerplate** – NestJS API built as a boilerplate for any project which requires a scalable and secure structure in order to grow and achieve its goals. [🔗 GitHub Repo](https://github.com/OsianJL/nestjs-backend-boilerplate)
-- 📌 **AI Desktop Assistant Agent** – Agent with capabilities to manage folders, files and other data in your computer and organize it. [🔗 GitHub Repo](https://github.com/OsianJL/desktop_assistant_agent)
-- 📌 **AI Agent React Interface** – Short description. [🔗 GitHub Repo](https://github.com/OsianJL/agent-react-interface)
-
----
-
-⭐️ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
