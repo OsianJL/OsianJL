@@ -21,25 +21,10 @@ I’m passionate about turning complex data into clear, actionable insights and 
 
 ---
 
-## 📘 Learning Path (Bootcamp Modules)
-
-1. **Fundamentals & Tools** → Data Analytics basics, dynamic dashboards  
-2. **Visualization & Databases** → SQL, Power BI, Tableau  
-3. **Mathematical Statistics** → Descriptive stats, algebra with Python & R  
-4. **Python & R** → Data manipulation, visualization (Matplotlib, Plotly, Ggplot)  
-5. **Machine Learning & AI** → Spark, PySpark, NLP, supervised learning  
-6. **Final Project** → Cloud-based data software & portfolio project
-
----
-
 ## 📂 Featured Projects
 
 - 📊 **Sales Performance Dashboard** – Interactive Power BI dashboard integrating SQL Server data to track KPIs.  
-- 🤖 **Customer Review Analyzer** – NLP project in Python classifying sentiment from e-commerce reviews.  
-- 🧮 **Marketing Data Insights (Python + Pandas)** – Exploratory analysis and visualization of real campaign data.  
-- ☁️ **Final Project: Cloud Data App** – Full data pipeline with ETL + Power BI + cloud deployment.
-
-*(Projects coming soon as part of my Data Analytics Bootcamp)*
+- 🤖 **Churn Telco Modeling and Clustering** – Modeling project in Python to predict churn. 
 
 ---
 
