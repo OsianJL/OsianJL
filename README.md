@@ -61,7 +61,7 @@ I’m passionate about turning complex data into clear, actionable insights and 
 
 ---
 
-[![Osián's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsianJL&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Osián's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsianJL)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
