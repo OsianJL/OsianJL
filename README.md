@@ -22,10 +22,8 @@ I’m passionate about turning complex data into clear, actionable insights and 
 ---
 
 ## 📂 Featured Projects
-
-- 📊 **Sales Performance Dashboard** – Interactive Power BI dashboard integrating SQL Server data to track KPIs.  <img width="527" height="196" alt="image" src="https://github.com/user-attachments/assets/5b2f40d1-f9f6-401c-a2f2-15f130eda666" />
-- 📊 [Sales Performance Dashboard](https://github.com/OsianJL/telco-customer-churn-analysis)
-- 🤖 **Churn Telco Modeling and Clustering** – Modeling project in Python to predict churn. 
+ 
+- 📊 [Churn Telco Modeling and Clustering](https://github.com/OsianJL/telco-customer-churn-analysis) – Modeling project in Python to predict churn.
 
 ---
 
