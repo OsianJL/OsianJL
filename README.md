@@ -61,10 +61,6 @@ I’m passionate about turning complex data into clear, actionable insights and 
 
 ---
 
-[![Osián's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsianJL)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/osianjorge/)
 
 ⭐ Thanks for visiting my profile!
