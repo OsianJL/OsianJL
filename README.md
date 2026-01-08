@@ -27,6 +27,7 @@ I’m passionate about turning complex data into clear, actionable insights and 
   
 - ⚙️ [Backend API boilerplate built from scratch](https://github.com/OsianJL/nestjs-backend-boilerplate) – Fully dockerized NestJS API with Prisma ORM and PostgreSQL, structured for scalable, real-world backend development.
 
+- 🤖 [Local AI Agent for Desktop Automation](https://github.com/OsianJL/desktop_assistant_agent) – Experimental desktop agent architecture for task automation and system interaction, designed as a foundation for scalable, real-world AI assistants.
 ---
 
 ## 🧠 Tech Overview
