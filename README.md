@@ -23,7 +23,7 @@ I’m passionate about turning complex data into clear, actionable insights and 
 
 ## 📂 Featured Projects
  
-- 📊 [Churn Telco Modeling and Clustering](https://github.com/OsianJL/telco-customer-churn-analysis) – Modeling project in Python to predict churn, with customer segmentation.  
+- 📊 [Churn Telco Modeling and Clustering](https://github.com/OsianJL/telco-customer-churn-analysis) – Modeling project in Python to predict customer churn, combining supervised learning for churn prediction with unsupervised clustering to identify actionable customer segments and support retention strategies.
   
 - ⚙️ [Backend API boilerplate built from scratch](https://github.com/OsianJL/nestjs-backend-boilerplate) – Fully dockerized NestJS API with Prisma ORM and PostgreSQL, structured for scalable, real-world backend development.
 
